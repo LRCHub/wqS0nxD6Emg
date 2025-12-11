@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "ラブ・ドラマティック",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-11T02:49:20.973901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (Funky Flag Version)",
+      "artist": "Masayuki Suzuki feat. 伊原六花",
+      "has_synced": true,
+      "path": "select/01_ラブ・ドラマティック_(Funky_Flag_Version)_Masayuki_Suzuki_feat._伊原六花.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (Funky Flag Version)",
+      "artist": "Masayuki Suzuki/Rikka Ihara",
+      "has_synced": true,
+      "path": "select/02_ラブ・ドラマティック_(Funky_Flag_Version)_Masayuki_Suzuki_Rikka_Ihara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (Funky Flag Version)",
+      "artist": "Masayuki Suzuki/伊原六花",
+      "has_synced": true,
+      "path": "select/03_ラブ・ドラマティック_(Funky_Flag_Version)_Masayuki_Suzuki_伊原六花.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki feat. 伊原六花",
+      "has_synced": true,
+      "path": "select/04_ラブ・ドラマティック_Masayuki_Suzuki_feat._伊原六花.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/05_ラブ・ドラマティック_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki/Rikka Ihara",
+      "has_synced": false,
+      "path": "select/06_ラブ・ドラマティック_Masayuki_Suzuki_Rikka_Ihara.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (Funky Flag Version)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/07_ラブ・ドラマティック_(Funky_Flag_Version)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "Masayuki Suzuki (鈴木雅之)",
+      "has_synced": false,
+      "path": "select/08_ラブ・ドラマティック_feat._伊原六花_Masayuki_Suzuki_(鈴木雅之).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki/伊原六花",
+      "has_synced": true,
+      "path": "select/09_ラブ・ドラマティック_Masayuki_Suzuki_伊原六花.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (89 Sec.TV Size Version)",
+      "artist": "Masayuki Suzuki feat. 伊原六花",
+      "has_synced": true,
+      "path": "select/10_ラブ・ドラマティック_(89_Sec.TV_Size_Version)_Masayuki_Suzuki_feat._伊原六花.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/11_ラブ・ドラマティック_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/12_ラブ・ドラマティック_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/13_ラブ・ドラマティック_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック (89 Sec.TV Size Version)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/14_ラブ・ドラマティック_(89_Sec.TV_Size_Version)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラブ・ドラマティック",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/15_ラブ・ドラマティック_鈴木雅之.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat.伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_ラブ・ドラマティック_feat.伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_04_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_05_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_06_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_07_ラブ・ドラマティック_feat._伊原六花_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花 (89Sec.TV Size Version)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_08_ラブ・ドラマティック_feat._伊原六花_(89Sec.TV_Size_Version)_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ラブ・ドラマティック feat. 伊原六花 (Funky Flag Version)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_09_ラブ・ドラマティック_feat._伊原六花_(Funky_Flag_Version)_鈴木_雅之.txt"
+    }
+  ]
+}
